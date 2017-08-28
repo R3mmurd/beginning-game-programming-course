@@ -1,0 +1,5 @@
+/home/alex/Dropbox/Work/Programs/CSharp/Lab2/Lab2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Dropbox/Work/Programs/CSharp/Lab2/Lab2/bin/Debug/Lab2.exe.mdb
+/home/alex/Dropbox/Work/Programs/CSharp/Lab2/Lab2/bin/Debug/Lab2.exe
+/home/alex/Dropbox/Work/Programs/CSharp/Lab2/Lab2/obj/x86/Debug/Lab2.exe
+/home/alex/Dropbox/Work/Programs/CSharp/Lab2/Lab2/obj/x86/Debug/Lab2.exe.mdb

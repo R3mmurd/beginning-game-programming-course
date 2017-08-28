@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/graphics/burger.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/graphics/explosion.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/graphics/frenchfries.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/graphics/teddybear.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/graphics/teddybearprojectile.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/fonts/Arial20.spritefont</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/BurgerDamage.wav</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/BurgerDeath.wav</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/BurgerShot.wav</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/Explosion.wav</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/TeddyBounce.wav</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/GameProject/GameProjectContent/audio/TeddyShot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

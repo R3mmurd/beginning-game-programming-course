@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Draw method">
+    <HelpKINode Title="Game1.Draw Method " Url="html/2a322f23-afa4-1800-ef90-d72e73f2766f.htm" />
+    <HelpKINode Title="TeddyBear.Draw Method " Url="html/7649ab4f-0ebc-92ce-8af9-abab9f7f2c5e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game1 class">
+    <HelpKINode Title="Game1 Class" Url="html/19bed47f-8721-5709-3c77-b98fffc0aa56.htm" />
+    <HelpKINode Title="about Game1 class" Url="html/19bed47f-8721-5709-3c77-b98fffc0aa56.htm" />
+    <HelpKINode Title="constructor" Url="html/11b92ac1-ceab-3e46-a9b1-c95e6f546556.htm" />
+    <HelpKINode Title="fields" Url="html/f216c4dc-38ca-31ff-5d65-60e03934dde2.htm" />
+    <HelpKINode Title="methods" Url="html/5eba0c80-a071-9ecf-df95-dcad5a0b24d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Game1.Draw method" Url="html/2a322f23-afa4-1800-ef90-d72e73f2766f.htm" />
+  <HelpKINode Title="Game1.Game1 constructor" Url="html/11b92ac1-ceab-3e46-a9b1-c95e6f546556.htm" />
+  <HelpKINode Title="Game1.Initialize method" Url="html/2a72f02e-c369-689b-d21e-df3e0d082802.htm" />
+  <HelpKINode Title="Game1.LoadContent method" Url="html/c2af16d9-8ae0-6b73-414f-286de7e3ef96.htm" />
+  <HelpKINode Title="Game1.UnloadContent method" Url="html/f79d07f3-398d-9921-4498-96f26eab6193.htm" />
+  <HelpKINode Title="Game1.Update method" Url="html/72952e19-c13a-9917-8df2-802a4149f972.htm" />
+  <HelpKINode Title="Game1.WindowHeight field" Url="html/3cca5d45-4c79-7ebb-03e5-70284c83a0a1.htm" />
+  <HelpKINode Title="Game1.WindowWidth field" Url="html/56d46619-9047-1abf-3d67-607166300519.htm" />
+  <HelpKINode Title="Initialize method" Url="html/2a72f02e-c369-689b-d21e-df3e0d082802.htm" />
+  <HelpKINode Title="Lab6 namespace" Url="html/839d60f0-bde5-9343-6fcd-195ea3e1bada.htm" />
+  <HelpKINode Title="Lab6.Game1 class" Url="html/19bed47f-8721-5709-3c77-b98fffc0aa56.htm" />
+  <HelpKINode Title="Lab6.Program class" Url="html/7fcce0dd-19a2-1e80-47b1-efe05e62273f.htm" />
+  <HelpKINode Title="Lab6.TeddyBear class" Url="html/719d33bf-90bb-69e3-1153-e731ea92111e.htm" />
+  <HelpKINode Title="LoadContent method" Url="html/c2af16d9-8ae0-6b73-414f-286de7e3ef96.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/7fcce0dd-19a2-1e80-47b1-efe05e62273f.htm" />
+    <HelpKINode Title="about Program class" Url="html/7fcce0dd-19a2-1e80-47b1-efe05e62273f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeddyBear class">
+    <HelpKINode Title="TeddyBear Class" Url="html/719d33bf-90bb-69e3-1153-e731ea92111e.htm" />
+    <HelpKINode Title="about TeddyBear class" Url="html/719d33bf-90bb-69e3-1153-e731ea92111e.htm" />
+    <HelpKINode Title="constructor" Url="html/97b21c82-bd07-08f0-f6c0-c72cd1e43b79.htm" />
+    <HelpKINode Title="methods" Url="html/214e4d48-2a36-5555-d490-f75773e15a40.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeddyBear.Draw method" Url="html/7649ab4f-0ebc-92ce-8af9-abab9f7f2c5e.htm" />
+  <HelpKINode Title="TeddyBear.TeddyBear constructor" Url="html/97b21c82-bd07-08f0-f6c0-c72cd1e43b79.htm" />
+  <HelpKINode Title="TeddyBear.Update method" Url="html/f0224b42-0b99-e483-9571-b5f573a94d3b.htm" />
+  <HelpKINode Title="UnloadContent method" Url="html/f79d07f3-398d-9921-4498-96f26eab6193.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Game1.Update Method " Url="html/72952e19-c13a-9917-8df2-802a4149f972.htm" />
+    <HelpKINode Title="TeddyBear.Update Method " Url="html/f0224b42-0b99-e483-9571-b5f573a94d3b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/a3f9de9d-8424-4a5b-84f4-0bbe3cd0fed9.htm" />
+    <HelpKINode Title="history" Url="html/1a72e9ba-8ff1-452a-b20c-43e1068aae7e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/65e9cc50-1508-4aad-a4fd-6259d438a47e.htm" />
+  <HelpKINode Title="WindowHeight field" Url="html/3cca5d45-4c79-7ebb-03e5-70284c83a0a1.htm" />
+  <HelpKINode Title="WindowWidth field" Url="html/56d46619-9047-1abf-3d67-607166300519.htm" />
+</HelpKI>

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ProgrammingAssignment4/ProgrammingAssignment4.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment4/Pickup.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment4/Game1.cs" Line="108" Column="18" />
+      <File FileName="ProgrammingAssignment4/TeddyBear.cs" Line="88" Column="22" />
+      <File FileName="ProgrammingAssignment4/Pickup.cs" Line="25" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

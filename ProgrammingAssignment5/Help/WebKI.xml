@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Active property">
+    <HelpKINode Title="Mine.Active Property " Url="html/5c6bf16e-39a1-452c-023f-e27c2d1b08e0.htm" />
+    <HelpKINode Title="TeddyBear.Active Property " Url="html/574f6d34-8371-2c35-81d7-378599423f28.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollisionRectangle property">
+    <HelpKINode Title="Mine.CollisionRectangle Property " Url="html/f51cf431-d793-000a-3427-fac6f18a5b58.htm" />
+    <HelpKINode Title="TeddyBear.CollisionRectangle Property " Url="html/66e43893-c280-a177-581c-0c7b2b87a39e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Draw method">
+    <HelpKINode Title="Explosion.Draw Method " Url="html/61f01069-d446-57e0-dbac-5e155f0b8358.htm" />
+    <HelpKINode Title="Mine.Draw Method " Url="html/8033c79c-03fb-26dc-3c37-b935448a38e0.htm" />
+    <HelpKINode Title="TeddyBear.Draw Method " Url="html/ae2298ad-7b6c-e42e-55ee-0e1cdae8024b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Explosion class">
+    <HelpKINode Title="Explosion Class" Url="html/9325c147-7ddb-e8e9-bc18-f1d60deee1a7.htm" />
+    <HelpKINode Title="about Explosion class" Url="html/9325c147-7ddb-e8e9-bc18-f1d60deee1a7.htm" />
+    <HelpKINode Title="constructor" Url="html/eec38d67-231e-f54b-28f7-5327da702d58.htm" />
+    <HelpKINode Title="methods" Url="html/a4be5d7a-d7fb-637f-973a-ad3d05ebb9cb.htm" />
+    <HelpKINode Title="properties" Url="html/acda88f3-51a8-9acf-14d4-f087434ee67c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Explosion.Draw method" Url="html/61f01069-d446-57e0-dbac-5e155f0b8358.htm" />
+  <HelpKINode Title="Explosion.Explosion constructor" Url="html/eec38d67-231e-f54b-28f7-5327da702d58.htm" />
+  <HelpKINode Title="Explosion.Playing property" Url="html/4f2e55d1-ac77-b82d-9f5c-44987e5cf260.htm" />
+  <HelpKINode Title="Explosion.Update method" Url="html/bdef3c2d-3e4b-2209-e5f0-30cca8255bf4.htm" />
+  <HelpKINode Title="Mine class">
+    <HelpKINode Title="Mine Class" Url="html/1ec18188-d2eb-f858-7101-da3a8322026f.htm" />
+    <HelpKINode Title="about Mine class" Url="html/1ec18188-d2eb-f858-7101-da3a8322026f.htm" />
+    <HelpKINode Title="constructor" Url="html/1242e21f-bfad-f695-d882-8c5ccbc6568a.htm" />
+    <HelpKINode Title="methods" Url="html/3b6b5f97-5c5d-8602-64e1-9fbd46a0f129.htm" />
+    <HelpKINode Title="properties" Url="html/ee585ad6-14b6-5076-fec4-8b2b47090e49.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Mine.Active property" Url="html/5c6bf16e-39a1-452c-023f-e27c2d1b08e0.htm" />
+  <HelpKINode Title="Mine.CollisionRectangle property" Url="html/f51cf431-d793-000a-3427-fac6f18a5b58.htm" />
+  <HelpKINode Title="Mine.Draw method" Url="html/8033c79c-03fb-26dc-3c37-b935448a38e0.htm" />
+  <HelpKINode Title="Mine.Mine constructor" Url="html/1242e21f-bfad-f695-d882-8c5ccbc6568a.htm" />
+  <HelpKINode Title="Playing property" Url="html/4f2e55d1-ac77-b82d-9f5c-44987e5cf260.htm" />
+  <HelpKINode Title="TeddyBear class">
+    <HelpKINode Title="TeddyBear Class" Url="html/098218ae-7e8f-df4a-d033-e1d0cc1506db.htm" />
+    <HelpKINode Title="about TeddyBear class" Url="html/098218ae-7e8f-df4a-d033-e1d0cc1506db.htm" />
+    <HelpKINode Title="constructor" Url="html/8caf1e14-6abb-740f-1867-0964598c1c85.htm" />
+    <HelpKINode Title="methods" Url="html/ed593e76-eda6-581b-c505-8cf841bd227e.htm" />
+    <HelpKINode Title="properties" Url="html/e934d410-8d86-a836-48f8-094edc87469f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeddyBear.Active property" Url="html/574f6d34-8371-2c35-81d7-378599423f28.htm" />
+  <HelpKINode Title="TeddyBear.CollisionRectangle property" Url="html/66e43893-c280-a177-581c-0c7b2b87a39e.htm" />
+  <HelpKINode Title="TeddyBear.Draw method" Url="html/ae2298ad-7b6c-e42e-55ee-0e1cdae8024b.htm" />
+  <HelpKINode Title="TeddyBear.TeddyBear constructor" Url="html/8caf1e14-6abb-740f-1867-0964598c1c85.htm" />
+  <HelpKINode Title="TeddyBear.Update method" Url="html/a4bcda57-28d4-c12d-d162-9ea26170d9d8.htm" />
+  <HelpKINode Title="TeddyMineExplosion namespace" Url="html/515d1ef1-541c-db53-51e4-dee8657a8e41.htm" />
+  <HelpKINode Title="TeddyMineExplosion.Explosion class" Url="html/9325c147-7ddb-e8e9-bc18-f1d60deee1a7.htm" />
+  <HelpKINode Title="TeddyMineExplosion.Mine class" Url="html/1ec18188-d2eb-f858-7101-da3a8322026f.htm" />
+  <HelpKINode Title="TeddyMineExplosion.TeddyBear class" Url="html/098218ae-7e8f-df4a-d033-e1d0cc1506db.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="Explosion.Update Method " Url="html/bdef3c2d-3e4b-2209-e5f0-30cca8255bf4.htm" />
+    <HelpKINode Title="TeddyBear.Update Method " Url="html/a4bcda57-28d4-c12d-d162-9ea26170d9d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/0db3d10a-9f1d-4639-b302-c8435ddfdf68.htm" />
+    <HelpKINode Title="history" Url="html/9e13616d-53ec-44d5-873f-6defee47a9de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/5a8dff75-3462-4ceb-9df5-1824784e7e6d.htm" />
+</HelpKI>

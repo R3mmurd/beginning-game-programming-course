@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/ff657aa2-3c93-46b9-83eb-a61b261a60e2.htm" />
+  <HelpTOCNode Id="a6c80d5b-e2aa-4788-84f8-06b544a7f83a" Title="Version History" Url="html/26de5006-ece3-48bf-b5a4-31149a97f22f.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/6e3b7e68-7dd3-4fbb-9d5f-19db7d7e17d6.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="ae08bc57-624a-4b4c-9d07-10fd950a346d" Title="ExplodingTeddies" Url="html/2e86864b-b135-c296-0825-efb488a2417e.htm">
+    <HelpTOCNode Id="7f99299d-79ee-4088-8d90-e6e07dafa3a3" Title="Explosion Class" Url="html/7d40f33f-3ed4-fd3d-900b-c82a9327e493.htm">
+      <HelpTOCNode Title="Explosion Constructor " Url="html/1707475e-b2cf-733d-f07f-12b18d5d13b9.htm" />
+      <HelpTOCNode Id="6775b388-667c-4a4f-b945-7ce0e120eff5" Title="Explosion Methods" Url="html/698a604d-37e0-3525-18dd-84e841202ea4.htm">
+        <HelpTOCNode Title="Draw Method " Url="html/d4b457b6-2e09-8ca3-2ccd-a7e5b0b3e3e5.htm" />
+        <HelpTOCNode Title="Play Method " Url="html/e69e08d5-861b-5883-9e94-a5a558bad3a0.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/5943b7b0-1dbe-6840-ea48-372fc10f61e9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e62a5e30-3c6d-4836-8b0c-10fdea7aadbd" Title="TeddyBear Class" Url="html/16877c7f-d86a-2f72-d5c1-8e35a7408ac5.htm">
+      <HelpTOCNode Id="30e8ee44-3ef9-437c-80fe-edd547cf1799" Title="TeddyBear Constructor " Url="html/4cb5fbe6-2f8f-7300-8e44-fbe0c284d514.htm">
+        <HelpTOCNode Title="TeddyBear Constructor (ContentManager, Int32, Int32, String, Int32, Int32)" Url="html/049dc2a5-eb4e-b792-fe90-27f503c3b703.htm" />
+        <HelpTOCNode Title="TeddyBear Constructor (ContentManager, Int32, Int32, String, Int32, Int32, Vector2)" Url="html/5b165e5d-2d01-b1bf-608e-4135d4158a03.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f8ebecab-96b7-4492-a845-76e8f1926b18" Title="TeddyBear Properties" Url="html/9ece97d9-4e9a-ccbd-aa64-92c71d7ddbb3.htm">
+        <HelpTOCNode Title="Active Property " Url="html/2995c385-94e5-83bd-2357-b91dfc9392c8.htm" />
+        <HelpTOCNode Title="DrawRectangle Property " Url="html/4ef96810-31d3-ac75-c199-c2e34a27dcd6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8865d1f5-1039-46d8-bbc0-b7ff02e21267" Title="TeddyBear Methods" Url="html/0aede859-dfd3-f072-2569-0413209d36db.htm">
+        <HelpTOCNode Title="Draw Method " Url="html/d1465232-29ec-91b1-a022-eebc39f71fb8.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/3baea945-bb74-da76-1520-6472c164f916.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

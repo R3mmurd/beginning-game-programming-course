@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/ProgrammingAssignment4/ProgrammingAssignment4Content/graphics/pickup.png</File>
+    <File>/home/alex/Dropbox/Work/Programs/CSharp/ProgrammingAssignment4/ProgrammingAssignment4Content/graphics/teddybear.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Ace enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="AddCard method" Url="html/10d0aded-c259-2cc9-b26a-1a3a34cffdf9.htm" />
+  <HelpKINode Title="BlackjackHand class">
+    <HelpKINode Title="BlackjackHand Class" Url="html/49cbed75-dae9-7d67-73d4-67671cac5134.htm" />
+    <HelpKINode Title="about BlackjackHand class" Url="html/49cbed75-dae9-7d67-73d4-67671cac5134.htm" />
+    <HelpKINode Title="constructor" Url="html/07c3a250-69c9-704a-9ad1-774c0cf0b4c0.htm" />
+    <HelpKINode Title="methods" Url="html/bf33ad23-4939-562f-8089-21635e35ccd5.htm" />
+    <HelpKINode Title="properties" Url="html/842abdd6-4529-d30d-eb0a-6269c7d26f20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BlackjackHand.AddCard method" Url="html/10d0aded-c259-2cc9-b26a-1a3a34cffdf9.htm" />
+  <HelpKINode Title="BlackjackHand.BlackjackHand constructor" Url="html/07c3a250-69c9-704a-9ad1-774c0cf0b4c0.htm" />
+  <HelpKINode Title="BlackjackHand.HitOrNot method" Url="html/93367b15-13cf-4339-7217-2e8d6f01014f.htm" />
+  <HelpKINode Title="BlackjackHand.Print method" Url="html/d401d1c5-acb1-492f-da99-7381ea55b443.htm" />
+  <HelpKINode Title="BlackjackHand.Score property" Url="html/209f8c70-5b3e-204d-b09c-560fd49fe864.htm" />
+  <HelpKINode Title="BlackjackHand.ShowAllCards method" Url="html/06c53c93-4cde-fddc-3898-aad7b0477802.htm" />
+  <HelpKINode Title="BlackjackHand.ShowFirstCard method" Url="html/af25f16b-59fe-a93e-eaac-645ae8aa66f5.htm" />
+  <HelpKINode Title="BlackjackValue property" Url="html/ddb01d8d-62fa-916f-0442-9163ea38a716.htm" />
+  <HelpKINode Title="Card class">
+    <HelpKINode Title="Card Class" Url="html/91224f8c-2988-392e-5605-52d0ddcddc75.htm" />
+    <HelpKINode Title="about Card class" Url="html/91224f8c-2988-392e-5605-52d0ddcddc75.htm" />
+    <HelpKINode Title="constructor" Url="html/30b7bfde-4214-fe63-9af9-90ab7dc6f86f.htm" />
+    <HelpKINode Title="methods" Url="html/51b7b2f1-eec3-89e0-2f62-ce49bcb6c31c.htm" />
+    <HelpKINode Title="properties" Url="html/3edf1a2a-152c-13c5-ad73-c3dec1a48df3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Card.BlackjackValue property" Url="html/ddb01d8d-62fa-916f-0442-9163ea38a716.htm" />
+  <HelpKINode Title="Card.Card constructor" Url="html/30b7bfde-4214-fe63-9af9-90ab7dc6f86f.htm" />
+  <HelpKINode Title="Card.FaceUp property" Url="html/74a28307-47d7-51fa-460d-adf68c73b37e.htm" />
+  <HelpKINode Title="Card.FlipOver method" Url="html/ca7ff0dc-7a23-de20-87ec-79580c6b9ac7.htm" />
+  <HelpKINode Title="Card.Print method" Url="html/296a6d70-a459-2b38-a801-7120f4f3e46e.htm" />
+  <HelpKINode Title="Card.Rank property" Url="html/3f09465f-d99a-2add-1355-b8c895c89499.htm" />
+  <HelpKINode Title="Card.Suit property" Url="html/d2541944-1642-618d-56df-eb08b9441904.htm" />
+  <HelpKINode Title="Clubs enumeration member" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="ConsoleCards namespace" Url="html/765e7479-afe7-0c47-2ba7-94ba777c4308.htm" />
+  <HelpKINode Title="ConsoleCards.BlackjackHand class" Url="html/49cbed75-dae9-7d67-73d4-67671cac5134.htm" />
+  <HelpKINode Title="ConsoleCards.Card class" Url="html/91224f8c-2988-392e-5605-52d0ddcddc75.htm" />
+  <HelpKINode Title="ConsoleCards.Deck class" Url="html/a8c13bbf-f3a0-c16c-8ad7-10405512ec71.htm" />
+  <HelpKINode Title="ConsoleCards.Rank enumeration" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="ConsoleCards.Suit enumeration" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="Cut method" Url="html/61a52f90-f544-aa17-11ca-dfb4cd83bb45.htm" />
+  <HelpKINode Title="Deck class">
+    <HelpKINode Title="Deck Class" Url="html/a8c13bbf-f3a0-c16c-8ad7-10405512ec71.htm" />
+    <HelpKINode Title="about Deck class" Url="html/a8c13bbf-f3a0-c16c-8ad7-10405512ec71.htm" />
+    <HelpKINode Title="constructor" Url="html/e4494c09-012c-0989-657f-0d8f50318119.htm" />
+    <HelpKINode Title="methods" Url="html/73df931c-4a08-2ccd-ed2c-33fd74b43163.htm" />
+    <HelpKINode Title="properties" Url="html/1c770243-a397-6b60-cbd0-06baf67f3e89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Deck.Cut method" Url="html/61a52f90-f544-aa17-11ca-dfb4cd83bb45.htm" />
+  <HelpKINode Title="Deck.Deck constructor" Url="html/e4494c09-012c-0989-657f-0d8f50318119.htm" />
+  <HelpKINode Title="Deck.Empty property" Url="html/79d085f8-05a5-3b38-453f-3e465a01161a.htm" />
+  <HelpKINode Title="Deck.Print method" Url="html/3780fa17-ddd4-1fff-4027-d8add8083bd5.htm" />
+  <HelpKINode Title="Deck.Shuffle method" Url="html/5cc343b1-0d45-d18c-5944-a7ac23f8bcee.htm" />
+  <HelpKINode Title="Deck.TakeTopCard method" Url="html/937cb629-8ea5-95c8-b789-01d37080fbf7.htm" />
+  <HelpKINode Title="Diamonds enumeration member" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="Eight enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Empty property" Url="html/79d085f8-05a5-3b38-453f-3e465a01161a.htm" />
+  <HelpKINode Title="FaceUp property" Url="html/74a28307-47d7-51fa-460d-adf68c73b37e.htm" />
+  <HelpKINode Title="Five enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="FlipOver method" Url="html/ca7ff0dc-7a23-de20-87ec-79580c6b9ac7.htm" />
+  <HelpKINode Title="Four enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Hearts enumeration member" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="HitOrNot method" Url="html/93367b15-13cf-4339-7217-2e8d6f01014f.htm" />
+  <HelpKINode Title="Jack enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="King enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Nine enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Print method">
+    <HelpKINode Title="BlackjackHand.Print Method " Url="html/d401d1c5-acb1-492f-da99-7381ea55b443.htm" />
+    <HelpKINode Title="Card.Print Method " Url="html/296a6d70-a459-2b38-a801-7120f4f3e46e.htm" />
+    <HelpKINode Title="Deck.Print Method " Url="html/3780fa17-ddd4-1fff-4027-d8add8083bd5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Queen enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Rank enumeration" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Rank property" Url="html/3f09465f-d99a-2add-1355-b8c895c89499.htm" />
+  <HelpKINode Title="Score property" Url="html/209f8c70-5b3e-204d-b09c-560fd49fe864.htm" />
+  <HelpKINode Title="Seven enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="ShowAllCards method" Url="html/06c53c93-4cde-fddc-3898-aad7b0477802.htm" />
+  <HelpKINode Title="ShowFirstCard method" Url="html/af25f16b-59fe-a93e-eaac-645ae8aa66f5.htm" />
+  <HelpKINode Title="Shuffle method" Url="html/5cc343b1-0d45-d18c-5944-a7ac23f8bcee.htm" />
+  <HelpKINode Title="Six enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Spades enumeration member" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="Suit enumeration" Url="html/1cd2131b-2c3a-d68b-c6a8-b63cb44ae8f6.htm" />
+  <HelpKINode Title="Suit property" Url="html/d2541944-1642-618d-56df-eb08b9441904.htm" />
+  <HelpKINode Title="TakeTopCard method" Url="html/937cb629-8ea5-95c8-b789-01d37080fbf7.htm" />
+  <HelpKINode Title="Ten enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Three enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="Two enumeration member" Url="html/7e12b6f3-19d1-b646-d624-ff8bea6037a9.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/ac4479f3-8a89-47b3-9017-8702d314075a.htm" />
+    <HelpKINode Title="history" Url="html/b67a9e97-f5de-47ef-a68e-aad52b8ad8f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/61420d62-56a1-46c1-8f10-a8fd461c1cbb.htm" />
+</HelpKI>

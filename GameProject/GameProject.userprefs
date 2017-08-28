@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="GameProject/GameProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProject/Game1.cs">
+    <Files>
+      <File FileName="GameProject/Game1.cs" Line="1" Column="1" />
+      <File FileName="GameProject/Burger.cs" Line="1" Column="1" />
+      <File FileName="GameProject/TeddyBear.cs" Line="1" Column="1" />
+      <File FileName="GameProject/Explosion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

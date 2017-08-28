@@ -1,0 +1,12 @@
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/obj/x86/Debug/Lab6.Icon.ico
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/OpenTK.dll.config
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/Content/graphics/teddybear1.xnb
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/Lab6.exe.mdb
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/Lab6.exe
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/obj/x86/Debug/Lab6.exe
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/obj/x86/Debug/Lab6.exe.mdb
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/MonoGame.Framework.dll
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/OpenTK.dll
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/NVorbis.dll
+/home/alex/Dropbox/Work/Programs/CSharp/Lab6/Lab6/Lab6/bin/Debug/Content/graphics/teddybear0.xnb

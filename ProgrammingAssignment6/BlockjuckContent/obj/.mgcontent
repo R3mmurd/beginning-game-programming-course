@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Linux</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/BlockjuckContent/graphics/hitbutton.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/BlockjuckContent/graphics/quitbutton.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/BlockjuckContent/graphics/standbutton.png</File>
+  </SourceFiles>
+</SourceFileCollection>

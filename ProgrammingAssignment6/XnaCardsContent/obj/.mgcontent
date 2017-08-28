@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Linux</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Ace.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Eight.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Five.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Four.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Jack.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/King.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Nine.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Queen.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Seven.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Six.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Ten.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Three.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/clubs/Two.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Ace.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Eight.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Five.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Four.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Jack.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/King.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Nine.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Queen.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Seven.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Six.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Ten.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Three.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/diamonds/Two.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Ace.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Eight.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Five.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Four.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Jack.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/King.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Nine.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Queen.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Seven.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Six.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Ten.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Three.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/hearts/Two.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Ace.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Eight.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Five.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Four.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Jack.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/King.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Nine.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Queen.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Seven.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Six.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Ten.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Three.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/spades/Two.png</File>
+    <File>/home/tim/Documents/Coursera On Demand MOOC/Programming Assignments/Programming Assignment 6/content/XnaCardsContent/graphics/Back.png</File>
+  </SourceFiles>
+</SourceFileCollection>

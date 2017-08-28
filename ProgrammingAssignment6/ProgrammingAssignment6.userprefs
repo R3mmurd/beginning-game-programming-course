@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ProgrammingAssignment6/ProgrammingAssignment6.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment6/Game1.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment6/Game1.cs" Line="105" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
